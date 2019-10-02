@@ -1,0 +1,7 @@
+{
+  "name": "Ionic4CapFCM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
