@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267068326459",
+    "firebase_url": "https://ionic4capfcm-8e888.firebaseio.com",
+    "project_id": "ionic4capfcm-8e888",
+    "storage_bucket": "ionic4capfcm-8e888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267068326459:android:5fe0c3b89c57631763d21e",
+        "android_client_info": {
+          "package_name": "com.clicker.ionic4capfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267068326459-ilecq8333foruilkjb3jva4ni2qoa4ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxperBXne_6ZNsgcjUSks_lxWKFRHfdNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267068326459-ilecq8333foruilkjb3jva4ni2qoa4ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
